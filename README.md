@@ -15,4 +15,3 @@ A list of updates is as follows:
 -updated README.md file
 
 Screenshot of webpage:
-
