@@ -15,9 +15,12 @@ A list of updates is as follows:
 -updated README.md file
 
 Screenshot of webpage:
-Develop/assets/images/Screen Shot 2021-12-04 at 19.30.29.png
+![alt text](https://github.com/tburn3/urban-octo-telegram/blob/main/Develop/assets/images/Screen%20Shot%202021-12-04%20at%2019.30.29.png?raw=true)
 
 Link:
-https://github.com/tburn3/urban-octo-tele
+
+https://github.com/tburn3/urban-octo-telegram
+
+
 https://tburn3.github.io/horizeon-2021/
 
