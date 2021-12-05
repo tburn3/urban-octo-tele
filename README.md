@@ -15,3 +15,9 @@ A list of updates is as follows:
 -updated README.md file
 
 Screenshot of webpage:
+Develop/assets/images/Screen Shot 2021-12-04 at 19.30.29.png
+
+Link:
+https://github.com/tburn3/urban-octo-tele
+https://tburn3.github.io/horizeon-2021/
+
